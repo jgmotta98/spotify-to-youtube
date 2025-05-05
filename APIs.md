@@ -40,6 +40,8 @@ To use your YouTube account as the playlist creator, you must grant permission b
 3. Find the **Test users** topic, then click on the `+ Add users`
 4. Write and save your **Youtube email**
 
+---
+
 ## Running the code
 
 After all those configurations, you can run the `main.py` file and log in to your YouTube account.
