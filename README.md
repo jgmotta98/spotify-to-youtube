@@ -9,6 +9,8 @@ This project allows users to seamlessly transfer their Spotify playlists to YouT
 
 Before running the code, ensure that you configure and adjust the necessary APIs and files. For detailed instructions on **API configuration**, please refer to the [APIs documentation](./APIs.md).
 
+> The YouTube API has a daily limit of 10,000 units, with each API request consuming 100 units, limiting the number of calls per day using a free tier.
+
 ## Installation
 
 After configuring the APIs, clone the repository:
