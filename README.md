@@ -28,7 +28,6 @@ Create an `.env` file with the proper tokens:
 ```sh
 SPOTIFY_CLIENT_ID='your_key'
 SPOTIFY_CLIENT_SECRET='your_key'
-YOUTUBE_API_KEY='your_key'
 ```
 
 Change the Spotify playlist link on the `main.py` file:
